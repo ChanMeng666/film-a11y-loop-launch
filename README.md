@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/117274d5-ca7b-4d12-bd75-aea07845cc07
 
 <div align="center">
 
-**Watch on YouTube:** [youtu.be/Qg5QCE_V0Pg](https://youtu.be/Qg5QCE_V0Pg) · **Download:** [release v1.0.0](https://github.com/ChanMeng666/a11y-loop-promo-film/releases/tag/v1.0.0)
+**Watch on YouTube:** [youtu.be/Qg5QCE_V0Pg](https://youtu.be/Qg5QCE_V0Pg) · **Download:** [release v1.0.0](https://github.com/ChanMeng666/film-a11y-loop-launch/releases/tag/v1.0.0)
 
 </div>
 
